@@ -1,0 +1,8 @@
+# Libs usadas pelo scrapper, analisador lexico e levenshtein
+beautifulsoup4==4.12.3
+boto3==1.34.96
+textblob==0.18.0.post0
+selenium==4.21.0
+googletrans==4.0.0rc1
+deep-translator==1.11.4
+pandas==2.2.2
